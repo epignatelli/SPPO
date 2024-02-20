@@ -1,4 +1,4 @@
-name: lfrl
+name: sppo
 dependencies:
   - python=3.8
   - cmake
